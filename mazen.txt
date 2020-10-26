@@ -1,1 +1,6 @@
 hello from github 
+<<<<<<< HEAD
+here we work in ticket 
+=======
+adding some local commands 
+>>>>>>> local
